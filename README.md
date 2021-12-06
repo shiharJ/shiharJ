@@ -1,5 +1,17 @@
 ### Hi there 👋 Shihara here
 
+<a href="https://twitter.com/DilshanShihara?t=A1w6deqz2F48RJ2gmX-eSQ&s=09">
+  <img align="left" alt="Shihara | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shihara-jayasinghe-7610361a5">
+  <img align="left" alt="Shihara's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/jme9n332922i8s1qdidot9af6?si=dtySXBkERiKToWcU6cg6mA&utm_source=copy-link">
+  <img align="left" alt="Shihara's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shiharJ.shiharJ)
+
 - 🔭 I’m currently working on Restaurant Management System
 - 🌱 I’m currently undergraduate Information Technology at the University of Moratuwa
 - 👀 I'm interested in Javascript, React and anything related to 3D
