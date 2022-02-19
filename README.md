@@ -10,7 +10,7 @@
   <img align="left" alt="Shihara's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shiharJ.shiharJ)
+
 
 - 🔭 I’m currently working on Restaurant Management System
 - 🌱 I’m currently undergraduate Information Technology at the University of Moratuwa
